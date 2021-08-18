@@ -1,2 +1,3 @@
-# analysisLaborDataCitigroup
-This project analyzes labor data from Citigroup Inc., looking specifically at gender and employment. 
+## Analysis of Employment at Citigroup Inc.
+### Hanaan Shafi & Sudarshan Khadka 
+
