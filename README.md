@@ -1,5 +1,5 @@
 ## Analysis of Employment at Citigroup Inc.
-#### Hanaan Shafi & Sudarshan Khadka
+#### Hanaan & Sudarshan 
 
 Citigroup Inc. is an investment bank and financial services corportation headquarted in Lower Manhattan, New York. It was founded in 1998, and has grown to become the third largest bank in the United States. <br>
 
